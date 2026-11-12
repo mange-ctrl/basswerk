@@ -1,0 +1,18 @@
+[package]
+name = "basswerk"
+version = "0.1.0"
+edition = "2021"
+description = "Laser lattext-filer fran latstruktur-skillen och genererar musiken som WAV"
+
+[[bin]]
+name = "basswerk"
+path = "src/main.rs"
+
+[profile.release]
+opt-level = 3
+lto = true
+
+[dependencies]
+eframe = "0.37.0"
+rfd = "0.17.2"
+rodio = "0.23.0"
