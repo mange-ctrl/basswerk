@@ -1,1 +1,5 @@
 ﻿/target
+
+# Genererad musik och stem-filer
+ljud/
+*.wav

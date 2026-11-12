@@ -1,0 +1,43 @@
+﻿HENNES MUN
+
+Genre: Synthwave
+TEMPO: 96
+KEY: Em
+TOTAL LÄNGD: 3:24
+
+[TEMA]
+Ett mörkt, drivande spår med mjuk pad och hård kick.
+
+[INTRO] 8 takter | 0:00 - 0:20
+Ackord: Em - C - G - D
+(2 takter/ackord)
+[KICK] från takt 5
+[FX] luft och vinylbrus
+
+[VERS 1] 16 takter | 0:20 - 1:00
+Ackord: Em - C - G - D
+(2 takter/ackord)
+[KICK] fyra på golvet
+[BAS] åttondelar
+[FILT] öppnar mot slutet
+
+[PRECHORUS] 8 takter | 1:00 - 1:20
+Ackord: Am - Bm
+(2 takter/ackord)
+[RISER] sista två takterna
+[KICK] tystnar sista två takterna
+
+[DROP] 16 takter | 1:20 - 2:00
+Ackord: Em - C - G - D
+(1 takt/ackord)
+[KICK] fyra på golvet
+[BAS] drivande
+[FX] impact på ettan
+
+[BRYGGA] 8 takter | 2:00 - 2:20
+Ackord: C - D
+(2 takter/ackord)
+
+[OUTRO] 8 takter | 2:20 - 2:40
+Ackord: Em
+(2 takter/ackord)

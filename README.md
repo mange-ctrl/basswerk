@@ -3,7 +3,15 @@
 Läser en låttext från `latstruktur-mall`-skillen och **genererar musiken** — helt
 utan ljudfiler eller extern ljudmotor. Allt syntetiseras i koden. **v1.**
 
+![basswerk](docs/screenshot.png)
+
 ## Användning
+
+Prova direkt med demolåten i `demo/`:
+
+```sh
+cargo run --release -- --gui demo
+```
 
 ```sh
 basswerk <låtmapp> [--out <fil.wav>]
