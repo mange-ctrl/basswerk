@@ -134,7 +134,7 @@ pub const GENRER: [&str; 6] = [
 impl Default for AppSettings {
     fn default() -> Self {
         AppSettings {
-            arbetsmapp: "D:\\pengar genom AI".into(),
+            arbetsmapp: String::new(),
             modell: "opencode/deepseek-v4.1-flash-free".into(),
             opencode_sokvag: String::new(),
             genre: "Raggardunk".into(),

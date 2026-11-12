@@ -477,10 +477,12 @@ impl App {
             3 | 4 => "nivå3-4",
             _ => "nivå5",
         };
-        ui.weak(format!(
-            "Hamnar i: {}\\låtar\\{}\\<titel>",
-            self.app.arbetsmapp, niva_mapp
-        ));
+        let bas = if self.app.arbetsmapp.trim().is_empty() {
+            "<arbetsmapp>"
+        } else {
+            self.app.arbetsmapp.as_str()
+        };
+        ui.weak(format!("Hamnar i: {bas}\\låtar\\{niva_mapp}\\<titel>"));
         ui.separator();
         ui.add_space(4.0);
         ui.strong("BEFINTLIG LÅT");
